@@ -1,0 +1,14 @@
+{
+  "name": "Radio3HP",
+  "description": "Aplicacion oficial de Radiop3HP, radio libre e independiente.",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/img/icon-60.png",
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Radio3HP",
+    "url": "http://radio3hp.com/"
+  },
+  "default_locale": "es"
+}
